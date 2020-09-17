@@ -1,0 +1,9 @@
+.bg-img
+{
+	<img src="gambar.jpg">
+}
+
+input[type=text]
+{
+	padding: 8px 12px;
+}
